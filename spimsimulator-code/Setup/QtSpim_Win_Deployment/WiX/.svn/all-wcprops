@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/spimsimulator/code/!svn/ver/730/Setup/QtSpim_Win_Deployment/WiX
+END
+build-msi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/spimsimulator/code/!svn/ver/711/Setup/QtSpim_Win_Deployment/WiX/build-msi
+END
+QtSpim.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/spimsimulator/code/!svn/ver/730/Setup/QtSpim_Win_Deployment/WiX/QtSpim.wxs
+END
+QtSpim.mingw.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/spimsimulator/code/!svn/ver/714/Setup/QtSpim_Win_Deployment/WiX/QtSpim.mingw.wxs
+END

@@ -1,0 +1,16 @@
+K 18
+svn:global-ignores
+V 104
+build-QtSpim-Desktop_Qt_5_1_1_MSVC2012_32bit-Debug
+build-QtSpim-Desktop_Qt_5_1_1_MSVC2012_32bit-Release
+
+K 10
+svn:ignore
+V 61
+build_Release
+build-QtSpim-*
+build-qtspim-*
+qtspim.deb
+*.tmp
+
+END
